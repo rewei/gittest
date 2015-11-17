@@ -1,2 +1,3 @@
 d = 'hello python ! enjoy it'
-print d
+c = 'i am rewei'
+print d + ' ' +  c
