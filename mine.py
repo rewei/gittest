@@ -1,2 +1,2 @@
-d = 'hello python !'
+d = 'hello python ! enjoy it'
 print d
